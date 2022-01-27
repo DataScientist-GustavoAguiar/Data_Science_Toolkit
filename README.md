@@ -1,7 +1,7 @@
 # Sparkify Project (Udacity Data Scientist Final).
 
 <p align="left">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DataScientist-GustavoAguiar/Sparkify_Project_DataScientist_Final_Capstone?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DataScientist-GustavoAguiar/Data_Science_Toolkit?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
     <img alt="made by Gustavo Aguiar" src="https://img.shields.io/badge/made%20by-Gustavo-%237519C1">
@@ -61,7 +61,7 @@ Each notebook has its own set of libraries. The Google Colab Workspace can easil
 
 Gustavo Aguiar 👋🏽 Get in Touch!
 
-Production Engineer | Master's Student in Production Engineering and Computational System | Data Analyst and Physical Simulation Engineering
+Data Scientist | Master's Student in Production Engineering and Computational System | Data Scientist
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gjmaguiar/?locale=en_US)](https://www.linkedin.com/in/gjmaguiar/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-gustavoaguiar@id.uff.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoaguiar@id.uff.br)](mailto:gustavoaguiar@id.uff.br)
