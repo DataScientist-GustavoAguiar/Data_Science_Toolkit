@@ -1,4 +1,4 @@
-# Sparkify Project (Udacity Data Scientist Final).
+# Data Science Toolkit.
 
 <p align="left">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DataScientist-GustavoAguiar/Data_Science_Toolkit?color=%2304D361">
